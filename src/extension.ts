@@ -15,7 +15,7 @@ export function activate(context: vscode.ExtensionContext) {
         vscode.workspace.applyEdit(wsedit).then(() => {
           fs.writeFileSync(
             filePath.fsPath,
-            "#Be warned files in pyground_temp folder will automaticaly delete when you will close this window",
+            "#Be warned files in pyground_temp folder will automatically delete when you will close this window",
             "utf8"
           );
           vscode.workspace.openTextDocument(filePath).then((doc) => {

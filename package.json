@@ -1,8 +1,10 @@
 {
   "name": "pyground",
   "displayName": "PyGround",
-  "description": "playground for testing your snippet of python code",
+  "description": "Playground for your code. This extension creates a temporary folder for your testing code.Files in that folder automatically delete when you close the window. We all know we create test files in our projects. Those files make a mess at the end of the project. I have been there when my project is full temp.py files",
   "version": "0.0.1",
+  "publisher": "FarhanAliRaza",
+
   "engines": {
     "vscode": "^1.61.0"
   },

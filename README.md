@@ -1,70 +1,31 @@
-# pyground README
+# PYGROUND
 
-This is the README for your extension "pyground". After writing up a brief description, we recommend including the following sections.
+💚💚💚
+Playground for your code. Many times we create test 🧪 files to remember small feature or test our hypothesis 🧑‍🔬 but those files remain in our project even when we do not need them😤.This extension creates temporary folder named pyground_temp. You can create your temp files in that folder. When you will clode your window it will autmatically clean that folder for you .
+💚💚💚
 
-## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+## Usage
 
-For example if there is an image subfolder under your extension project workspace:
+✨  Install Extension 🎉🎉
+✨  Open Command Pallet usind control + shift + p 🎊
+✨  Select Command Pyground Create Temporary Folder 
+✨  It will create a folder named pyground_temp 📂📂
+✨  You can create temp files in that folder 🗃️
+✨  When you close your window it will delete all files in that folder 🚮
 
-\!\[feature X\]\(images/feature-x.png\)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+###    ⚡⚡⚡  DO NOT SAVE YOUR IMPORTANT WORK IN (pyground_temp) FOLDER  ⚡⚡⚡
 
-## Requirements
+## Contribute
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+✨ Got an idea to make it better. Visit my github and create a pull request [GitHub](https://github.com/FarhanAliRaza/pyground) 
 
-## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
-For example:
+### 0.0.1
 
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
+Initial Release
 -----------------------------------------------------------------------------------------------------------
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
