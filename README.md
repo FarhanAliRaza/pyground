@@ -26,6 +26,5 @@ Playground for your code. Many times we create test 🧪 files to remember small
 ### 0.0.1
 
 Initial Release
------------------------------------------------------------------------------------------------------------
 
 **Enjoy!**
