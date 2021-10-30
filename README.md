@@ -7,12 +7,12 @@ Playground for your code. Many times we create test 🧪 files to remember small
 
 ## Usage
 
-✨  Install Extension 🎉🎉
-✨  Open Command Pallet usind control + shift + p 🎊
-✨  Select Command Pyground Create Temporary Folder 
-✨  It will create a folder named pyground_temp 📂📂
-✨  You can create temp files in that folder 🗃️
-✨  When you close your window it will delete all files in that folder 🚮
+* ✨  Install Extension 🎉🎉
+* ✨  Open Command Pallet usind control + shift + p 🎊
+* ✨  Select Command Pyground Create Temporary Folder 
+* ✨  It will create a folder named pyground_temp 📂📂
+* ✨  You can create temp files in that folder 🗃️
+* ✨  When you close your window it will delete all files in that folder 🚮
 
 
 ###    ⚡⚡⚡  DO NOT SAVE YOUR IMPORTANT WORK IN (pyground_temp) FOLDER  ⚡⚡⚡
